@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
 
 * {
     box-sizing: border-box;
@@ -21,6 +21,12 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     max-width: 400px;
+}
+
+h1 {
+   font-family: 'Zen Tokyo Zoo', cursive;
+   color: white;
+   font-size: 50px;
 }
 
 .square {
